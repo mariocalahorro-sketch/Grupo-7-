@@ -1,2 +1,2 @@
 # Nuestro proyecto
-Somos el grupo 7 y este es nuestro proyecto de Ciencias de la Computación.
+Somos el grupo 7, formado por Mario Calahorro, Erik Fernández y Martina Mas y este es nuestro proyecto de Ciencias de la Computación.
