@@ -11,8 +11,8 @@ A continuación encontramos un vídeo demostrativo de como funciona la primera v
 ## Versión 2 del proyecto
 En esta version se añaden nuevas funciones que son presentadas en el video de a continuación.
 <p align="center">
-  <a href="https://youtu.be/1QTZ2Or79EM">
-    <img src="https://youtu.be/fqFUmdEEYDA" alt="Mira el video" width="400">
+  <a href="https://youtu.be/fqFUmdEEYDA">
+    <img src="https://img.youtube.com/vi/fqFUmdEEYDA/0.jpg" alt="Mira el video" width="400">
   </a>
 </p>
 
