@@ -10,6 +10,11 @@ A continuación encontramos un vídeo demostrativo de como funciona la primera v
 
 ## Versión 2 del proyecto
 En esta version se añaden nuevas funciones que son presentadas en el video de a continuación.
+<p align="center">
+  <a href="https://youtu.be/1QTZ2Or79EM">
+    <img src="https://youtu.be/fqFUmdEEYDA" alt="Mira el video" width="400">
+  </a>
+</p>
 
 ## Uso de la Inteligencia Artificial
 Hemos usado un asistente de IA (Claude) como apoyo, sobre todo en las partes que la guía no resuelve y para depurar. En los pasos guiados solo lo hemos usado de forma puntual para localizar errores en nuestro código.
