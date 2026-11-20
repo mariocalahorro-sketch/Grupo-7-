@@ -7,3 +7,6 @@ A continuación encontramos un vídeo demostrativo de como funciona la primera v
     <img src="https://img.youtube.com/vi/1QTZ2Or79EM/0.jpg" alt="Mira el video" width="400">
   </a>
 </p>
+
+## Versión 2 del proyecto
+En esta version se añaden nuevas funciones que son presentadas en el video de a continuación.
