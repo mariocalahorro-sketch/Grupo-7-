@@ -10,3 +10,5 @@ A continuación encontramos un vídeo demostrativo de como funciona la primera v
 
 ## Versión 2 del proyecto
 En esta version se añaden nuevas funciones que son presentadas en el video de a continuación.
+
+## Uso de la Inteligencia Artificial
